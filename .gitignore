@@ -1,0 +1,10 @@
+# IntelliJ
+.idea
+
+# Visual Studio Code
+.code
+
+# Gradle
+.gradle/
+gradle/
+build/
